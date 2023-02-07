@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa1f1eb5-d0e1-4e87-92fb-a87990e4c12d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MOD4/BE/dist/src/router/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/MOD4/BE/dist/src/router/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOD4/BE/dist/src/router/router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/MOD4/BE/dist/src/router/router.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOD4/BE/dist/tsconfig.build.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/MOD4/BE/dist/tsconfig.build.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOD4/BE/src/router/router.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MOD4/BE/src/router/router.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOD4/FE/src/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/MOD4/FE/src/home.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MOD4" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LDbsCLt6TtCjrPFvuoFwFEKov5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/84981/3TTT",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\84981\\3TTT\\MOD4\\BE\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle",
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa1f1eb5-d0e1-4e87-92fb-a87990e4c12d" name="Changes" comment="" />
+      <created>1675408804813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675408804813</updated>
+      <workItem from="1675408805998" duration="523000" />
+      <workItem from="1675409372259" duration="6288000" />
+      <workItem from="1675466754300" duration="5932000" />
+      <workItem from="1675492210953" duration="1488000" />
+      <workItem from="1675502177799" duration="33000" />
+      <workItem from="1675502583256" duration="652000" />
+      <workItem from="1675504877227" duration="8771000" />
+      <workItem from="1675521975727" duration="3574000" />
+      <workItem from="1675604592035" duration="6136000" />
+      <workItem from="1675638860046" duration="2596000" />
+      <workItem from="1675645518916" duration="244000" />
+      <workItem from="1675645915440" duration="31000" />
+      <workItem from="1675668911041" duration="199000" />
+      <workItem from="1675675066991" duration="236000" />
+      <workItem from="1675675453593" duration="21000" />
+      <workItem from="1675675554949" duration="179000" />
+      <workItem from="1675695760380" duration="42000" />
+      <workItem from="1675696167098" duration="16189000" />
+      <workItem from="1675725025581" duration="1540000" />
+      <workItem from="1675729127773" duration="337000" />
+      <workItem from="1675731609021" duration="684000" />
+      <workItem from="1675732711721" duration="175000" />
+      <workItem from="1675733158060" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
